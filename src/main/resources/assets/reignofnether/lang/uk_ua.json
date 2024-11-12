@@ -457,7 +457,7 @@
     "server.resources.reignofnether.not_enough_ore": "У вас недостатньо руди",
     "server.resources.reignofnether.not_enough_pop": "Ви не маєте достатньої кількості населення",
     "server.resources.reignofnether.not_enough_wood": "У вас недостатньо дерева",
-    "sounds.reignofnether.ally": "Об'єднатися",
+    "sounds.reignofnether.ally": "Cоюзник",
     "sounds.reignofnether.chat": "Чат",
     "sounds.reignofnether.defeat": "Поразка",
     "sounds.reignofnether.enemy": "Ворог",
@@ -710,5 +710,15 @@
     "units.villagers.reignofnether.vindicator.tooltip1": "Селянин, озброєний сокирою для рукопашного бою.",
     "units.villagers.reignofnether.vindicator.tooltip2": "Покращений діамантовими сокирами, які завдають +2 шкоди",
     "units.villagers.reignofnether.witch": "Відьма",
-    "units.villagers.reignofnether.witch.tooltip1": "Підступна відьма, яка може лікувати і шкодити зіллям."
+    "units.villagers.reignofnether.witch.tooltip1": "Підступна відьма, яка може лікувати і шкодити зіллям.",
+    "alliance.reignofnether.sent_request": "Запрошення на вступ до союзу надіслано %s.",
+    "alliance.reignofnether.ally_self": "Ти не можешь вступити в собз з самим собой!",
+    "alliance.reignofnether.ally_confirm": "%s хоче стати союзником с тобою. Напиши /allyconfirm %s щоб приняти.",
+    "alliance.reignofnether.now_allied": "Ти тепер союзник с %s.",
+    "alliance.reignofnether.ally_accepted": "%s приняв союз с тобой.",
+    "alliance.reignofnether.no_request": "Немає приглошень на вступ до союзу від %s.",
+    "alliance.reignofnether.disbanded": "Твій союз з %s був скасован.",
+    "alliance.reignofnether.disbanding": "Скасування союзу с %s через 30 секунд...",
+    "alliance.reignofnether.disband_self": "Ти не можешь себе скасувати.",
+    "alliance.reignofnether.disband_pending": "Запит на скасування союзу з цим гравцем вже надіслан."
 }
